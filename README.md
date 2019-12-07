@@ -7,6 +7,4 @@ After training the model we try to recover the face of the person who belongs to
 
 Here are some examples of recovered images vs the real face of the person, all results can be found in the results folder.
 
-![images for class 28](https://raw.githubusercontent.com/Djiffit/face-decoding-with-model-inversion/master/results/class%20s28.png)
-![images for class 37](https://raw.githubusercontent.com/Djiffit/face-decoding-with-model-inversion/master/results/class%20s37.png)
-![images for class 7](https://raw.githubusercontent.com/Djiffit/face-decoding-with-model-inversion/master/results/class%20s7.png)
+![Some results](https://raw.githubusercontent.com/Djiffit/face-decoding-with-model-inversion/master/results/results.png)
